@@ -1428,7 +1428,7 @@ t_gamescreenState.exit = function() {
 //
 
 var t_game = new ooze.Game({
-	canvasId: 'tronix2-game',
+	canvasId: 'enquero-game',
 	state: t_loadscreenState,
 	simpleLoop: true,
 	viewMode: 'scale-fit'

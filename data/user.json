@@ -1,0 +1,14 @@
+{
+	"debug": {
+		"enableDebugMode": false,
+		"skipToLevel": 1,
+		"showVertexIndex": false,
+		"showVertexPosition": false
+	},
+	"colors": {
+		"highlight": "#f9d010",
+		"solved": "#2dff1e",
+		"unsolved": "#1ec2ff",
+		"progress": "#61db14"
+	}
+}
